@@ -1,4 +1,2 @@
 print("Hello world!")
-print("\n")
-print("@@@")
-print("!!!!")
+print(Hello my dear friend")
